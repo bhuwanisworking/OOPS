@@ -1,5 +1,3 @@
-
-
 public class Human {
     public static  class Student{
         private String name;
